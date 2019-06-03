@@ -2,7 +2,7 @@
     "name": "@fictionlover/math-operations",
     "version": "4.0.0",
     "description": "Basic arithmetic operations",
-    "main": "index.js",
+    "main": "source/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
