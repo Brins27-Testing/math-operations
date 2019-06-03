@@ -1,6 +1,6 @@
 {
     "name": "@fictionlover/math-operations",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "Basic arithmetic operations",
     "main": "index.js",
     "scripts": {
@@ -8,5 +8,8 @@
     },
     "author": "",
     "license": "MIT",
-    "keywords": ["arithmetic", "math"]
+    "keywords": [
+        "arithmetic",
+        "math"
+    ]
 }
