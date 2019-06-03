@@ -1,11 +1,12 @@
 {
     "name": "@fictionlover/math-operations",
     "version": "2.0.0",
-    "description": "",
+    "description": "Basic arithmetic operations",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
-    "license": "ISC"
+    "license": "MIT",
+    "keywords": ["arithmetic", "math"]
 }
