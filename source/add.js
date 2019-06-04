@@ -1,3 +1,7 @@
+import {
+    log
+} from './common';
+
 export default (...vars) => {
     var sum = 0;
     vars.forEach((num) => {
