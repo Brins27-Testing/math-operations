@@ -1,9 +1,10 @@
 {
     "name": "@fictionlover/math-operations",
-    "version": "7.0.0",
+    "version": "8.0.0",
     "description": "Basic arithmetic operations",
     "main": "cjs/index.js",
     "module": "es6/index.js",
+    "files": ["es6", "cjs", "dist"],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "prepare": "npm run clean && npm run build",
