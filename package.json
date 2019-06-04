@@ -1,6 +1,6 @@
 {
     "name": "@fictionlover/math-operations",
-    "version": "6.0.0",
+    "version": "7.0.0",
     "description": "Basic arithmetic operations",
     "main": "cjs/index.js",
     "module": "es6/index.js",
