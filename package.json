@@ -1,6 +1,6 @@
 {
     "name": "@fictionlover/math-operations",
-    "version": "8.0.0",
+    "version": "8.0.1",
     "description": "Basic arithmetic operations",
     "main": "cjs/index.js",
     "module": "es6/index.js",
@@ -19,8 +19,16 @@
     "license": "MIT",
     "keywords": [
         "arithmetic",
-        "math"
+        "math",
+        "math-operations",
+        "operations",
+        "sample",
+        "fictionlover"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fictionluv27/math-operations.git"
+    },
     "devDependencies": {
         "@babel/core": "^7.4.5",
         "@babel/cli": "^7.4.4",
